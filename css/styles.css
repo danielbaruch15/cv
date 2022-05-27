@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Marriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin-bottom: 100px;
+}
+
+h1 {
+  margin: 50px;
+  font-family: 'Sacramento', cursive;
+  margin: 10px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding-top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 50px;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  margin-top: 30px;
+}
+
+.rocket {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.football {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.copyrights {
+  margin-bottom: 0px;
+  color: white;
+  padding: 30px;
+}
+
+.footer-link {
+  margin: 20px;
+  padding: 20px;
+}
+
+.btn {
+  padding: 30px;
+}
+
+
+.contact-me {
+  margin: 30px auto 30px auto;
+}
+
+.contact-me-pic {
+  width: 300px;
+  height: 100px;
+  margin: 50px;
+}
